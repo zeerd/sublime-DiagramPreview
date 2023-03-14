@@ -1,0 +1,8 @@
+[
+    { "caption": "-", "id": "file" },
+    {
+        "command": "diagram_preview",
+        "id":"diagram_preview",
+        "caption":"Preview Diagram"
+    }
+]

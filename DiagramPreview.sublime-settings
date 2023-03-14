@@ -1,0 +1,25 @@
+{
+	// "java_path" is the path of java command. Here are some examples.
+	// For Windows: "C:\\Program Files\\Microsoft\\jdk-11.0.13.8-hotspot\\bin\\java.exe"
+	// For Windows: "C:\\Program Files\\Java\\jre1.8.0_301\\bin\\java.exe"
+	// For Linux: "/usr/bin/java"
+	// For OSX: "/usr/bin/java"
+	// If you have added this path to the PATH environment variable, you can
+	// use "java" instead of the full absolute path.
+	"java_path": "java",
+
+	// "plantuml_path" is the path of plantuml.
+	// You may find it here： https://plantuml.com/en/download
+	"plantuml_path": "D:\\tools\\Utils\\plantuml.1.2021.8.jar",
+
+	// "dot_path" is the path of dot command. Here are some examples.
+	// For Windows: "D:\\Graphviz\\bin\\dot.exe"
+	// For Linux: "/usr/bin/dot"
+	// For OSX: "/usr/bin/dot"
+	// If you have added this path to the PATH environment variable, you can
+	// use "dot" instead of the full absolute path.
+	"dot_path": "dot",
+
+	// "dot_font" used by dot.
+	"dot_font": "仿宋",
+}
